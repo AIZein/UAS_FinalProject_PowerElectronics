@@ -1,0 +1,12 @@
+Version 4
+SymbolType BLOCK
+CIRCLE Normal 50 31 -21 -36
+PIN -16 -16 NONE 8
+PINATTR PinName 1
+PINATTR SpiceOrder 1
+PIN -16 16 NONE 8
+PINATTR PinName 2
+PINATTR SpiceOrder 2
+PIN 48 0 NONE 8
+PINATTR PinName 3
+PINATTR SpiceOrder 3
